@@ -20,7 +20,7 @@
     }
 
     .bar {
-      width: 60%;
+      idth: 60%;
       height: 20px;
       margin: 30px auto;
       background: #333;
